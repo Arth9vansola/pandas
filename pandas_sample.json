@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "name": "Avi",
+        "age": 23,
+        "city": "Delhi",
+        "score": 88.5
+    },
+    {
+        "id": 2,
+        "name": "Neha",
+        "age": 25,
+        "city": "Mumbai",
+        "score": 92.0
+    },
+    {
+        "id": 3,
+        "name": "Ravi",
+        "age": 22,
+        "city": "Bangalore",
+        "score": 79.0
+    },
+    {
+        "id": 4,
+        "name": "Sonia",
+        "age": 24,
+        "city": "Chennai",
+        "score": 85.0
+    },
+    {
+        "id": 5,
+        "name": "Karan",
+        "age": 21,
+        "city": "Pune",
+        "score": 91.0
+    }
+]
